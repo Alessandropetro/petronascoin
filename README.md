@@ -1,2 +1,2 @@
 # petronascoin
-coin 
+token
